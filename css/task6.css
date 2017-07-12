@@ -1,11 +1,11 @@
 body{
-	margin:0px auto;
+	margin:0 auto;
 	padding: 0;
 }
 .container{
 	width: 980px;
 	height:1466px;
-	margin:0px auto;
+	margin:0 auto;
 	border: 1px solid #262626;
 }
 .main{
